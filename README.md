@@ -1,4 +1,3 @@
-@@ -0,0 +1,59 @@
 # 🌱 EcoAlerta - Global Solution
 
 Solução desenvolvida para a entrega diária de relatórios personalizados sobre **desastres naturais**, como enchentes, chuvas fortes e terremotos, com o objetivo de **prevenir riscos, salvar vidas** e **informar com inteligência**.
